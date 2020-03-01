@@ -3,21 +3,23 @@
     max-width: 600px;
     margin: auto;
     // background: red;
-    padding-bottom: 60px;
+    padding-bottom: 50px;
     .title {
         width: calc(100vw - 30px);
         padding: 0 15px;
-        max-width: 330px;
-        margin: auto;
-        margin-top: 60px;
+        max-width: 380px; // 330px
+        margin: 60px auto 20px auto;
         text-align: left;
         h1 {
-            font-size: 1.6em;
+            font-size: 2em; // 1.6em
+        }
+        p {
+            max-width: 330px;
         }
     }
     .grid {
-        margin-top: 20px;
         padding: 0 20px;
+        margin: auto;
         display: flex;
         flex-flow: column wrap;
         align-items: center;
@@ -29,6 +31,16 @@
         .grid {
             padding: 0 30px !important;
             height: auto !important;
+            max-width: 320px;
+        }
+        .title {
+            max-width: 270px;
+            h1 {
+                font-size: 1.5em;
+            }
+            p {
+                font-size: .85em;
+            }
         }
     }
 }
