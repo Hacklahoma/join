@@ -43,8 +43,6 @@ export class Home extends Component {
         else if (day % 10 === 3) ending = "rd";
         else ending = "th";
         var now = new Date(Date.now())
-        console.log(date.getTime() < now.getTime());
-        
 
         // Setting date states
         this.setState({

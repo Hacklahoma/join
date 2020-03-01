@@ -1,62 +1,34 @@
 {
-    "Web Developer": {
+    "web-developer": {
+        "name": "Web Developer",
         "category": "Tech",
         "description": "This is a description for Web Developer.",
-        "what-you-do": [
+        "whatYouDo": [
             "one",
             "two",
             "three"
         ],
-        "what-we-want": [
+        "whatWeWant": [
             "one",
             "two",
             "three"
         ],
-        "apply-link": "https://hacklahoma.org"
+        "applyLink": "https://hacklahoma.org"
     },
-    "Sponsoring & Finance Director": {
+    "sponsoring-and-finance-director": {
+        "name": "Sponsoring & Finance Director",
         "category": "Sponsoring & Finance",
-        "description": "This is a description for Sponsoring & Finance Director.",
-        "what-you-do": [
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "whatYouDo": [
             "one",
             "two",
             "three"
         ],
-        "what-we-want": [
+        "whatWeWant": [
             "one",
             "two",
             "three"
         ],
-        "apply-link": "https://hacklahoma.org"
-    },
-    "Sponsoring & Finance Director2": {
-        "category": "Sponsoring & Finance",
-        "description": "This is a description for Sponsoring & Finance Director.",
-        "what-you-do": [
-            "one",
-            "two",
-            "three"
-        ],
-        "what-we-want": [
-            "one",
-            "two",
-            "three"
-        ],
-        "apply-link": "https://hacklahoma.org"
-    },
-    "Sponsoring & Finance Director3": {
-        "category": "Sponsoring & Finance",
-        "description": "This is a description for Sponsoring & Finance Director.",
-        "what-you-do": [
-            "one",
-            "two",
-            "three"
-        ],
-        "what-we-want": [
-            "one",
-            "two",
-            "three"
-        ],
-        "apply-link": "https://hacklahoma.org"
+        "applyLink": "https://hacklahoma.org"
     }
 }

@@ -18,7 +18,7 @@ export class Positions extends Component {
         var current = 0;
         for (var i = 0; i < items.length; i++) {
             // Debug
-            console.log(current + " " + height);
+            // console.log(current + " " + height);
 
             // If the current height is more than half the container height, then break
             if (current > height / 2) {
@@ -41,7 +41,14 @@ export class Positions extends Component {
                 </div>
                 <div className="grid">
                     {Object.keys(positions).map(key => {
-                        return <Item key={key} position={key} category={positions[key].category} />;
+                        return (
+                            <Item
+                                key={key}
+                                url={key}
+                                position={positions[key].name}
+                                category={positions[key].category}
+                            />
+                        );
                     })}
                 </div>
             </div>
