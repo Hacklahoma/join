@@ -12,23 +12,25 @@ export class Positions extends Component {
 
     updateHeight() {
         // Setting grid height
-        document.getElementsByClassName("grid")[0].style.height = "auto";
-        var height = document.getElementsByClassName("grid")[0].offsetHeight;
-        var items = document.getElementsByClassName("Item");
-        var current = 0;
-        for (var i = 0; i < items.length; i++) {
-            // Debug
-            // console.log(current + " " + height);
+        if (document.getElementsByClassName("grid")[0]) {
+            document.getElementsByClassName("grid")[0].style.height = "auto";
+            var height = document.getElementsByClassName("grid")[0].offsetHeight;
+            var items = document.getElementsByClassName("Item");
+            var current = 0;
+            for (var i = 0; i < items.length; i++) {
+                // Debug
+                // console.log(current + " " + height);
 
-            // If the current height is more than half the container height, then break
-            if (current > height / 2) {
-                break;
+                // If the current height is more than half the container height, then break
+                if (current > height / 2) {
+                    break;
+                }
+                // Add item height to current height
+                current += items[i].offsetHeight;
             }
-            // Add item height to current height
-            current += items[i].offsetHeight;
+            // Set calculated height to production
+            document.getElementsByClassName("grid")[0].style.height = current + "px";
         }
-        // Set calculated height to production
-        document.getElementsByClassName("grid")[0].style.height = current + "px";
     }
     
 

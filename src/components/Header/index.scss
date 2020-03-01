@@ -61,6 +61,13 @@
     }
 }
 
+.Header.closed {
+    background: rgb(204, 78, 78);
+    h3 {
+        background: rgb(204, 78, 78) !important;
+    }
+}
+
 @media (max-width: 580px) {
     .Header {
         height: 300px;
