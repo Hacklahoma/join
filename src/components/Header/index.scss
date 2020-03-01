@@ -1,0 +1,86 @@
+.Header {
+    position: relative;
+    background: rgb(78, 130, 204);
+    height: 400px;
+    color: white;
+    .wrapper {
+        position: relative;
+        width: 80vw;
+        max-width: 700px;
+        height: 80%;
+        margin: auto;
+        top: 10%;
+        text-align: center;
+        .content {
+            white-space: nowrap;
+            display: inline-block;
+            position: relative;
+            top: 50%;
+            transform: translate(0, -50%);
+            text-align: left;
+            z-index: 2;
+            h1 {
+                font-weight: 900 !important;
+                font-size: 3em;
+            }
+            h3 {
+                position: absolute;
+                font-weight: 900 !important;
+                font-size: 1.4em;
+                background: rgb(78, 130, 204);
+                margin-top: 45px;
+                margin-left: -20px;
+                padding: 0 20px;
+            }
+        }
+        .logo {
+            position: absolute;
+            left: 0;
+            top: -10px;
+            a {
+                font-family: 'Bebas';
+                font-size: 1.5em;
+                color: white;
+                text-decoration: none;
+            }
+        }
+        .line {
+            height: 1px;
+            background: rgb(29, 43, 65);
+            width: 100%;
+        }
+        .line.top {
+            position: absolute;
+            top: 10%;
+        }
+        .line.bottom {
+            position: absolute;
+            bottom: 10%;
+            z-index: 0;
+        }
+    }
+}
+
+@media (max-width: 580px) {
+    .Header {
+        height: 300px;
+        .wrapper {
+            .content {
+                h1 {
+                    font-size: 2.2em;
+                }
+                h3 {
+                    font-size: 1.2em;
+                    margin-top: 34px;
+                    margin-left: -20px;
+                    padding: 0 20px;
+                }
+            }
+            .logo {
+                a {
+                    font-size: 1.2em;
+                }
+            }
+        }
+    }
+}

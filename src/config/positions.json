@@ -1,0 +1,62 @@
+{
+    "Web Developer": {
+        "category": "Tech",
+        "description": "This is a description for Web Developer.",
+        "what-you-do": [
+            "one",
+            "two",
+            "three"
+        ],
+        "what-we-want": [
+            "one",
+            "two",
+            "three"
+        ],
+        "apply-link": "https://hacklahoma.org"
+    },
+    "Sponsoring & Finance Director": {
+        "category": "Sponsoring & Finance",
+        "description": "This is a description for Sponsoring & Finance Director.",
+        "what-you-do": [
+            "one",
+            "two",
+            "three"
+        ],
+        "what-we-want": [
+            "one",
+            "two",
+            "three"
+        ],
+        "apply-link": "https://hacklahoma.org"
+    },
+    "Sponsoring & Finance Director2": {
+        "category": "Sponsoring & Finance",
+        "description": "This is a description for Sponsoring & Finance Director.",
+        "what-you-do": [
+            "one",
+            "two",
+            "three"
+        ],
+        "what-we-want": [
+            "one",
+            "two",
+            "three"
+        ],
+        "apply-link": "https://hacklahoma.org"
+    },
+    "Sponsoring & Finance Director3": {
+        "category": "Sponsoring & Finance",
+        "description": "This is a description for Sponsoring & Finance Director.",
+        "what-you-do": [
+            "one",
+            "two",
+            "three"
+        ],
+        "what-we-want": [
+            "one",
+            "two",
+            "three"
+        ],
+        "apply-link": "https://hacklahoma.org"
+    }
+}

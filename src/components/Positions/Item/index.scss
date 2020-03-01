@@ -1,0 +1,31 @@
+.Item {
+    height: auto;
+    width: calc(50% - 20px);
+    margin: 7px 0;
+    box-shadow: inset 0 0 0 3px #eee;
+    border-radius: 8px;
+    // transition: .5s;
+    cursor: pointer;
+    .content {
+        padding: 15px 20px;
+        text-align: left;
+        p {
+            font-size: .85em;
+            margin-bottom: 3px;
+        }
+    }
+}
+.Item:hover {
+    background: #fcfcfc;
+    transition: 0 !important;
+}
+.Item:active {
+    transition: 0 !important;
+    background: rgb(245, 245, 245);
+}
+
+@media (max-width: 450px) {
+    .Item {
+        width: 100%;
+    }
+}
