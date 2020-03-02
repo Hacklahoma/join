@@ -3,16 +3,19 @@
         "disabled": false,
         "name": "Marketing Director",
         "category": "Marketing",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "The Marketing Director leads a small team in pursuing Hacklahoma's creative direction and promotional material.",
         "whatYouDo": [
-            "one",
-            "two",
-            "three"
+            "Sets and maintains the creative direction of Hacklahoma's theme.",
+            "Oversees the promotional products given out at Hacklahoma.",
+            "Heavily collaborate with other teams insuring a consistent creative direction.",
+            "Drive improvement and optimization throughout the team."
         ],
         "whatWeWant": [
-            "one",
-            "two",
-            "three"
+            "Experience in graphic design.",
+            "Preferred marketing experience.",
+            "Preferred web development experience or familiarity.",
+            "A portfolio of current and past work.",
+            "Ability to communicate and document effectively."
         ],
         "applyLink": "https://hacklahoma.org"
     },
@@ -21,16 +24,8 @@
         "name": "Graphic Designer",
         "category": "Marketing",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
+        "whatYouDo": ["one", "two", "three"],
+        "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
     },
     "community-outreach-coordinator": {
@@ -38,16 +33,8 @@
         "name": "Community Outreach Coordinator",
         "category": "Marketing",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
+        "whatYouDo": ["one", "two", "three"],
+        "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
     },
     "public-relations-officer": {
@@ -55,16 +42,8 @@
         "name": "Public Relations Officer",
         "category": "Marketing",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
+        "whatYouDo": ["one", "two", "three"],
+        "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
     },
     "marketing-strategist": {
@@ -72,49 +51,24 @@
         "name": "Marketing Strategist",
         "category": "Marketing",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
+        "whatYouDo": ["one", "two", "three"],
+        "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
     },
     "operations-director": {
         "disabled": false,
         "name": "Operations Director",
         "category": "Operations",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "The Operations Director leads their officers in taking care of the logistics and operations of Hacklahoma.",
         "whatYouDo": [
-            "one",
-            "two",
-            "three"
+            "Take the lead in event operations, including improvement and optimization.",
+            "Create venue reservations and appropiate event saftey/risk tasks.",
+            "Create and manage the event schedule.",
+            "Research and coordinate with food vendors."
         ],
         "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
-        "applyLink": "https://hacklahoma.org"
-    },
-    "hacker-experience-officer": {
-        "disabled": false,
-        "name": "Hacker Experience Officer",
-        "category": "Operations",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
+            "Event planning experience is preferred.",
+            "Excellent communication and organization skills."
         ],
         "applyLink": "https://hacklahoma.org"
     },
@@ -122,16 +76,15 @@
         "disabled": false,
         "name": "Operations Officer",
         "category": "Operations",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "The Operations Officer, who is overseen by the Operations Director, assists in taking care of the logistics and operations of Hacklahoma.",
         "whatYouDo": [
-            "one",
-            "two",
-            "three"
+            "Assist in researching prospective venus, food, and event activities.",
+            "Ensures all planned activities run smoothly during event.",
+            "Collect feedback from hackers at Hacklahoma and other organizers to improve the hacker experience."
         ],
         "whatWeWant": [
-            "one",
-            "two",
-            "three"
+            "Event planning experience is preferred.",
+            "Excellent communication and organization skills."
         ],
         "applyLink": "https://hacklahoma.org"
     },
@@ -140,16 +93,8 @@
         "name": "Sponsoring & Finance Director",
         "category": "Sponsoring & Finance",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
+        "whatYouDo": ["one", "two", "three"],
+        "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
     },
     "sponsor-liaison": {
@@ -157,16 +102,8 @@
         "name": "Sponsor Liaison",
         "category": "Sponsoring & Finance",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
+        "whatYouDo": ["one", "two", "three"],
+        "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
     },
     "finance-liaison": {
@@ -174,16 +111,8 @@
         "name": "Finance Liaison",
         "category": "Sponsoring & Finance",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "whatYouDo": [
-            "one",
-            "two",
-            "three"
-        ],
-        "whatWeWant": [
-            "one",
-            "two",
-            "three"
-        ],
+        "whatYouDo": ["one", "two", "three"],
+        "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
     },
     "tech-director": {
@@ -193,10 +122,11 @@
         "description": "The Tech Director takes the responsibility of developing and managing all of Hacklahoma's assets while working closely with and overseeing the Web Developer.",
         "whatYouDo": [
             "Take the lead in developing Hacklahoma's necessary assets including websites and the registration system.",
-            "Create and manage all online forms.",
+            "Create and manage all online forms and legal documents.",
             "Maintain all hardware assets as well as create documentation on how to use them.",
             "Update and create documentation to better future proof Hacklahoma.",
-            "Manage, process, and visualize data collected by Hacklahoma."
+            "Manage, process, and visualize data collected by Hacklahoma.",
+            "Lead registration process during event."
         ],
         "whatWeWant": [
             "Leads and manages a team while maintaining a productive environment.",
