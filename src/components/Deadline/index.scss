@@ -1,3 +1,26 @@
 .Deadline {
-    
+    margin-top: 50px;
+    .countdown {
+        $partWidth: 70px;
+        margin: auto;
+        width: $partWidth * 4;
+        .part {
+            text-align: center;
+            width: $partWidth;
+            display: inline-block;
+            .value {
+                font-size: 2em;
+                font-weight: 900;
+            }
+            .label {
+                margin-top: -7px;
+            }
+        }
+    }
+    .subtitle {
+        margin-top: 10px;
+        padding: 0 20px;
+        font-weight: 700;
+        text-align: center;
+    }
 }

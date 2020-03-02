@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Header from '../components/Header'
 import Positions from '../components/Positions'
 import Hacklahomie from "../components/Hacklahomie"
+import Deadline from '../components/Deadline'
 import status from '../config/status.json'
 import './Home.scss'
 
@@ -10,6 +11,7 @@ export class Home extends Component {
         super();
         this.state = {
             closed: false,
+            date: null,
             deadline: ""
         };
     }
@@ -48,7 +50,20 @@ export class Home extends Component {
         // Setting date states
         this.setState({
             closed: date.getTime() < now.getTime(),
-            deadline: wordMonth + " " + day + ending + " at 11:59pm CST"
+            date: date,
+            deadline: wordMonth + " " + day + ending + ", 11:59pm CST"
+        });
+
+
+        this.myInterval = setInterval(() => {
+            this.updateClosed(date);
+        }, 1000);
+    }
+
+    updateClosed(date) {
+        var now = new Date(Date.now());
+        this.setState({
+            closed: date.getTime() < now.getTime()
         });
     }
     
@@ -56,9 +71,10 @@ export class Home extends Component {
         return (
             <div className="Home">
                 <Header closed={this.state.closed} />
+                {this.state.closed ? null : <Deadline deadline={this.state.deadline} date={this.state.date} />}
                 <div className="homeWrapper">
                     <Hacklahomie />
-                    {this.state.closed ? null : <Positions deadline={this.state.deadline} />}
+                    {this.state.closed ? null : <Positions />}
                 </div>
             </div>
         );
