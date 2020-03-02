@@ -4,54 +4,71 @@ import Item from './Item'
 import positions from '../../config/positions.json'
 
 export class Positions extends Component {
-
-    componentDidMount() {
-        this.updateHeight();
-        window.addEventListener("resize", this.updateHeight);
-    }
-
-    updateHeight() {
-        // Setting grid height
-        if (document.getElementsByClassName("grid")[0]) {
-            document.getElementsByClassName("grid")[0].style.height = "auto";
-            var height = document.getElementsByClassName("grid")[0].offsetHeight;
-            var items = document.getElementsByClassName("Item");
-            var current = 0;
-            for (var i = 0; i < items.length; i++) {
-                // Debug
-                // console.log(current + " " + height);
-
-                // If the current height is more than half the container height, then break
-                if (current > height / 2) {
-                    break;
-                }
-                // Add item height to current height
-                current += items[i].offsetHeight;
-            }
-            // Set calculated height to production
-            document.getElementsByClassName("grid")[0].style.height = current + "px";
+    constructor() {
+        super();
+        this.state = {
+            positions: null
         }
     }
+
+    componentDidMount() {
+        var map = new Map();
+        Object.keys(positions).forEach((key) => {
+            if(!positions[key].disabled) {
+                if (map.has(positions[key].category)) {
+                    map.get(positions[key].category).push(key)
+                } else {
+                    map.set(positions[key].category, [key]);
+                }
+            }
+        })
+
+        this.setState({
+            positions: map
+        })
+
+        // Debug
+        // console.log(map);
+    }
     
+
+    renderCategories() {
+        var cats = this.state.positions
+        var result = [];
+        var item = [];
+        if(cats) {
+            cats.forEach((key) => {
+                item = [];
+                item.push(
+                    <div key={key} className="header">
+                        <h2>{positions[key[0]].category}</h2>
+                        <div className="divider" />
+                    </div>
+                );
+                key.forEach(val => {
+                    item.push(
+                        <Item
+                            key={val}
+                            position={positions[val].name}
+                            category={positions[val].category}
+                            url={val}
+                        />
+                    );
+                })
+                result.push(<div key={key + 2} className="category">{item}</div>)
+            });
+        }
+        return result;
+    }
 
     render() {
         return (
             <div className="Positions">
                 <div className="title">
-                    <h1>Find a role that fits you.</h1>
-                    <p>Applications close {this.props.deadline}. Click a role to learn more.</p>
+                    <h1>Current Openings</h1>
                 </div>
-                <div className="grid">
-                    {Object.keys(positions).map(key => {
-                        return (
-                            <Item
-                                key={key}
-                                url={key}
-                                position={positions[key].name}
-                                category={positions[key].category}
-                            />
-                        );
-                    })}
+                <div className="positions">
+                    {this.renderCategories()}
                 </div>
             </div>
         );

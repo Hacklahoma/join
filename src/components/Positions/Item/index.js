@@ -7,10 +7,7 @@ export class Item extends Component {
         return (
             <div className="Item">
                 <Link to={this.props.url} style={{ textDecoration: "none" }}>
-                    <div className="content">
-                        <p>{this.props.category}</p>
-                        <h3>{this.props.position}</h3>
-                    </div>
+                    <p>{this.props.position}</p>
                 </Link>
             </div>
         );

@@ -16,6 +16,7 @@ export class Page extends Component {
             do: [],
             want: [],
             link: '',
+            disabled: false,
         }
     }
 
@@ -28,7 +29,8 @@ export class Page extends Component {
                 description: positions[key].description,
                 do: positions[key].whatYouDo,
                 want: positions[key].whatWeWant,
-                link: positions[key].applyLink
+                link: positions[key].applyLink,
+                disabled: positions[key].disabled
             });
         }
         else {
@@ -54,20 +56,22 @@ export class Page extends Component {
                     <h2>What you'll do</h2>
                     <ul className="list">
                         {Object.values(this.state.do).map(val => {
-                            return <li>{val}</li>;
+                            return <li key={val}>{val}</li>;
                         })}
                     </ul>
                     <h2>What we want</h2>
                     <ul className="list">
                         {Object.values(this.state.want).map(val => {
-                            return <li>{val}</li>;
+                            return <li key={val}>{val}</li>;
                         })}
                     </ul>
-                    <div className="apply">
-                        <Button color="blue" href={this.state.link}>
-                            Apply
-                        </Button>
-                    </div>
+                    {this.state.disabled ? null :
+                        <div className="apply">
+                            <Button color="blue" href={this.state.link}>
+                                Apply
+                            </Button>
+                        </div>
+                    }
                 </div>
             </div>
         );

@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
 import Header from '../components/Header'
 import Positions from '../components/Positions'
-import Why from '../components/Why'
+import Hacklahomie from "../components/Hacklahomie"
 import status from '../config/status.json'
+import './Home.scss'
 
 export class Home extends Component {
     constructor() {
@@ -53,10 +54,12 @@ export class Home extends Component {
     
     render() {
         return (
-            <div>
+            <div className="Home">
                 <Header closed={this.state.closed} />
-                <Why />
-                {this.state.closed ? null : <Positions deadline={this.state.deadline} />}
+                <div className="homeWrapper">
+                    <Hacklahomie />
+                    {this.state.closed ? null : <Positions deadline={this.state.deadline} />}
+                </div>
             </div>
         );
     }
