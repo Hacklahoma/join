@@ -6,6 +6,7 @@
     .positions {
         column-count: 2;
         .category {
+            min-width: 220px;
             display: inline-block;
             .header {
                 display: inline-block;
