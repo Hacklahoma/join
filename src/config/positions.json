@@ -23,7 +23,7 @@
         "disabled": false,
         "name": "Graphic Designer",
         "category": "Marketing",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "whatYouDo": ["one", "two", "three"],
         "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
@@ -32,7 +32,7 @@
         "disabled": false,
         "name": "Outreach Coordinator",
         "category": "Marketing",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "whatYouDo": ["one", "two", "three"],
         "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
@@ -41,7 +41,7 @@
         "disabled": false,
         "name": "Public Relations Officer",
         "category": "Marketing",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "whatYouDo": ["one", "two", "three"],
         "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
@@ -50,7 +50,7 @@
         "disabled": false,
         "name": "Marketing Strategist",
         "category": "Marketing",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "whatYouDo": ["one", "two", "three"],
         "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
@@ -62,7 +62,7 @@
         "description": "The Operations Director leads their officers in taking care of the logistics and operations of Hacklahoma.",
         "whatYouDo": [
             "Take the lead in event operations, including improvement and optimization.",
-            "Create venue reservations and appropiate event saftey/risk tasks.",
+            "Create venue reservations and appropriate event safety/risk tasks.",
             "Create and manage the event schedule.",
             "Research and coordinate with food vendors."
         ],
@@ -92,7 +92,7 @@
         "disabled": false,
         "name": "Sponsoring & Finance Director",
         "category": "Sponsoring & Finance",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "whatYouDo": ["one", "two", "three"],
         "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
@@ -101,7 +101,7 @@
         "disabled": false,
         "name": "Sponsor Liaison",
         "category": "Sponsoring & Finance",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "whatYouDo": ["one", "two", "three"],
         "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
@@ -110,7 +110,7 @@
         "disabled": false,
         "name": "Finance Liaison",
         "category": "Sponsoring & Finance",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "",
         "whatYouDo": ["one", "two", "three"],
         "whatWeWant": ["one", "two", "three"],
         "applyLink": "https://hacklahoma.org"
