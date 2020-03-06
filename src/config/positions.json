@@ -3,18 +3,24 @@
         "disabled": false,
         "name": "Marketing Director",
         "category": "Marketing",
-        "description": "The Marketing Director leads a small team in pursuing Hacklahoma's creative direction and promotional material.",
+        "description": "",
         "whatYouDo": [
-            "Sets and maintains the creative direction of Hacklahoma's theme.",
-            "Oversees the promotional products given out at Hacklahoma.",
-            "Heavily collaborate with other teams insuring a consistent creative direction.",
+            "Setting and maintaining creative direction of Hacklahoma’s theme. This includes but is not limited to: creation of the theme and working with other members to ensure consistency of theme across website, graphics, and marketing/promotional material.",
+            "Choosing promotional products given out at the hackathon and communicating with product vendors of the products.",
+            "Ensure that the Marketing Team fulfills their duties.",
+            "Assisting Graphic Designer(s) in creation of graphics as needed.",
+            "Creates and keeps track of marketing quotas with the Marketing Strategist.",
+            "Develops outreach strategies for the organization with the Outreach Coordinator.",
+            "Assist PR Officer in editing and final approval of any press releases.",
+            "Collaborates with the Web Developer & Graphic Designer(s) to design Hacklahoma’s websites",
+            "Collaborating with photographers and videographers before and during the hackathon.",
             "Drive improvement and optimization throughout the team."
         ],
         "whatWeWant": [
-            "Experience in graphic design.",
-            "Preferred marketing experience.",
-            "Preferred web development experience or familiarity.",
-            "A portfolio of current and past work.",
+            "Must have experience in graphic design.",
+            "Marketing experience is preferred but not required.",
+            "Web development experience is preferred but not required.",
+            "Must provide a portfolio & list what graphic design software/programs they have experience in.",
             "Ability to communicate and document effectively."
         ],
         "applyLink": "https://hacklahoma.org"
@@ -32,9 +38,20 @@
         "disabled": false,
         "name": "Outreach Coordinator",
         "category": "Marketing",
-        "description": "",
-        "whatYouDo": ["one", "two", "three"],
-        "whatWeWant": ["one", "two", "three"],
+        "description": "The Outreach Coordinator engages with the community through interactive workshops over tech topics, provided by Major League Hacking and previous sponsors. They also maintain communication not only with the team, but many communities across the region.",
+        "whatYouDo": [
+            "Organize workshops on a monthly basis, on average.",
+            "Plan collaborative meetings with other organizations on campus.",
+            "Assist Marketing Strategist with executing a marketing plan.",
+            "Communicate with sponsors on holding workshops throughout the Fall and Spring semesters.",
+            "Communicate with other hackathons, schools, and clubs/organizations"
+        ],
+        "whatWeWant": [
+            "Great communication skills.",
+            "Experience with public speaking.",
+            "Ability to learn topics quickly.",
+            "Enthusiasm!"
+        ],
         "applyLink": "https://hacklahoma.org"
     },
     "public-relations-officer": {
@@ -59,15 +76,16 @@
         "disabled": false,
         "name": "Operations Director",
         "category": "Operations",
-        "description": "The Operations Director leads their officers in taking care of the logistics and operations of Hacklahoma.",
+        "description": "",
         "whatYouDo": [
-            "Take the lead in event operations, including improvement and optimization.",
-            "Create venue reservations and appropriate event safety/risk tasks.",
-            "Create and manage the event schedule.",
-            "Research and coordinate with food vendors."
+            "Responsible for event operations, including the improvement and optimization of operations.",
+            "Responsible for venue reservations and event safety/risk management.",
+            "Responsible for creating and managing the event schedule.",
+            "Responsible for researching and coordinating with food vendors.",
+            "Responsible for coordinating with Operations Officers on improving hacker experience and event logistics."
         ],
         "whatWeWant": [
-            "Event planning experience is preferred.",
+            "Event planning experience is preferred but not required.",
             "Excellent communication and organization skills."
         ],
         "applyLink": "https://hacklahoma.org"
@@ -76,14 +94,14 @@
         "disabled": false,
         "name": "Operations Officer",
         "category": "Operations",
-        "description": "The Operations Officer, who is overseen by the Operations Director, assists in taking care of the logistics and operations of Hacklahoma.",
+        "description": "",
         "whatYouDo": [
-            "Assist in researching prospective venus, food, and event activities.",
-            "Ensures all planned activities run smoothly during event.",
-            "Collect feedback from hackers at Hacklahoma and other organizers to improve the hacker experience."
+            "Responsible for assisting the Operations Director in researching prospective venues, food, and event activities.",
+            "Responsible for ensuring all planned activities run smoothly during the event.",
+            "Responsible for collecting feedback from hackers at Hacklahoma (and other hackathons, if possible) to improve the hacker experience."
         ],
         "whatWeWant": [
-            "Event planning experience is preferred.",
+            "Event planning experience is preferred but not required.",
             "Excellent communication and organization skills."
         ],
         "applyLink": "https://hacklahoma.org"
@@ -93,8 +111,26 @@
         "name": "Sponsoring & Finance Director",
         "category": "Sponsoring & Finance",
         "description": "",
-        "whatYouDo": ["one", "two", "three"],
-        "whatWeWant": ["one", "two", "three"],
+        "whatYouDo": [
+            "Responsible for ensuring that Sponsor Liaisons and Finance Liaisons fulfill their duties.",
+            "Responsible for strategic planning for obtaining and retaining sponsors.",
+            "Creates a detailed budget and documents expenses and revenue.",
+            "Creates yearly budget for Hacklahoma along with Operations.",
+            "Creates the Sponsorship Packet/Prospectus in collaboration with the Creative Director and Graphic Designer.",
+            "Approves all organization purchases.",
+            "Point of contact with OU Computer Science Department’s Financial Associate.",
+            "Partially acts as another Sponsor Liaison to obtain sponsors.",
+            "Responsible for enhancing the sponsor experience at Hacklahoma.",
+            "Responsible for ensuring that sponsors are prepared for the event and have all of the event information that they need.",
+            "Responsible for working with sponsors to plan their hosted workshops and activities by helping them brainstorm ideas and suggesting improvements to their plans."
+        ],
+        "whatWeWant": [
+            "Experience in sponsorship acquirement.",
+            "Ability to communicate with sponsors in a professional environment.",
+            "Written and oral communication skills.",
+            "Excellent communication and organization skills.",
+            "Experience in sales or interacting with companies professionally is a plus."
+        ],
         "applyLink": "https://hacklahoma.org"
     },
     "sponsor-liaison": {
@@ -102,8 +138,16 @@
         "name": "Sponsor Liaison",
         "category": "Sponsoring & Finance",
         "description": "",
-        "whatYouDo": ["one", "two", "three"],
-        "whatWeWant": ["one", "two", "three"],
+        "whatYouDo": [
+            "Main point of contact for sponsors.",
+            "Builds relationships with prospective sponsors and negotiates sponsorships.",
+            "Creates and maintains relationships between Hacklahoma and sponsors before, during, and after the event."
+        ],
+        "whatWeWant": [
+            "Excellent communication skills.",
+            "Experience in sales or interacting with companies professionally.",
+            "Time management skills."
+        ],
         "applyLink": "https://hacklahoma.org"
     },
     "finance-liaison": {
@@ -111,8 +155,18 @@
         "name": "Finance Liaison",
         "category": "Sponsoring & Finance",
         "description": "",
-        "whatYouDo": ["one", "two", "three"],
-        "whatWeWant": ["one", "two", "three"],
+        "whatYouDo": [
+            "Completes Hacklahoma’s grant, sponsorship, and other funding applications.",
+            "Helps the director create a detailed budget and documents expenses and revenue.",
+            "Responsible for setting travel reimbursement policy and processing reimbursements.",
+            "Point of contact with OU Computer Science Department’s Financial Associate.",
+            "Partially acts as another Sponsor Liaison to obtain sponsors."
+        ],
+        "whatWeWant": [
+            "Excellent time commitment skills.",
+            "Experience in budgeting and finance management.",
+            "Preferred experience in sales or interacting with companies and staff professionally."
+        ],
         "applyLink": "https://hacklahoma.org"
     },
     "tech-director": {
@@ -147,7 +201,7 @@
             "Collaborate heavily with the marketing team to bring their creative direction to the websites."
         ],
         "whatWeWant": [
-            "Familiar with React and/or other frameworks with an emphasis in front end development.",
+            "Familiarity with React and/or other frameworks with an emphasis in front end development.",
             "Capable to write technically and creatively."
         ],
         "applyLink": "https://hacklahoma.org"
