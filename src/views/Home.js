@@ -12,7 +12,8 @@ export class Home extends Component {
         this.state = {
             closed: false,
             date: null,
-            deadline: ""
+            deadline: "",
+            clock: null
         };
     }
 
@@ -55,10 +56,18 @@ export class Home extends Component {
         });
 
 
-        this.myInterval = setInterval(() => {
+        let clock = setInterval(() => {
             this.updateClosed(date);
         }, 1000);
+        this.setState({
+            clock: clock
+        })
     }
+
+    componentWillUnmount() {
+        clearInterval(this.state.clock);
+    }
+    
 
     updateClosed(date) {
         var now = new Date(Date.now());

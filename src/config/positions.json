@@ -27,7 +27,7 @@
     },
     "graphic-designer": {
         "disabled": false,
-        "name": "Graphic Designer",
+        "name": "Graphic Designer (2)",
         "category": "Marketing",
         "description": "",
         "whatYouDo": ["one", "two", "three"],
@@ -92,7 +92,7 @@
     },
     "operations-officer": {
         "disabled": false,
-        "name": "Operations Officer",
+        "name": "Operations Officer (2)",
         "category": "Operations",
         "description": "",
         "whatYouDo": [
@@ -135,7 +135,7 @@
     },
     "sponsor-liaison": {
         "disabled": false,
-        "name": "Sponsor Liaison",
+        "name": "Sponsor Liaison (3)",
         "category": "Sponsoring & Finance",
         "description": "",
         "whatYouDo": [
