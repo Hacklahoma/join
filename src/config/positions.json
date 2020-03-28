@@ -88,7 +88,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSc5svZj_KdUwDdbmPVL0BUA-SSWOPY8b1DAd-_pBfs4O3ULIA/viewform?usp=sf_link"
     },
     "operations-director": {
-        "disabled": false,
+        "disabled": true,
         "name": "Operations Director",
         "category": "Operations",
         "description": "Are you detail-oriented? Want to create an even better experience for Hacklahoma 2021? Then the Operations Director position may be right for you!",
@@ -123,7 +123,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdoIkzyj7fP0DTYBiqREKqvbGHxCxe8Hiv0D6V7-iASRN-vpA/viewform?usp=sf_link"
     },
     "sponsoring-and-finance-director": {
-        "disabled": false,
+        "disabled": true,
         "name": "Sponsoring & Finance Director",
         "category": "Sponsoring & Finance",
         "description": "Are you a driven and motivated person? Do you want to help raise funds to make an even better Hacklahoma? Then the Sponsoring & Finance Director position may be right for you!",
@@ -185,7 +185,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdLrHxixbjwrtzd8XiTfVa9X8bUnSx5Eg9yV5IK749Ul9l0oQ/viewform?usp=sf_link"
     },
     "tech-director": {
-        "disabled": false,
+        "disabled": true,
         "name": "Tech Director",
         "category": "Tech",
         "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Director position may be right for you!",
