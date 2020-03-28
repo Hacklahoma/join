@@ -57,7 +57,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeWvsZae6P158kVJiiy-KqqAr0nH_wCBKHuwWYGXKDei5wPKg/viewform?usp=sf_link"
     },
     "public-relations-officer": {
-        "disabled": false,
+        "disabled": true,
         "name": "Public Relations Officer",
         "category": "Marketing",
         "description": "Want to show what Hacklahoma is all about to the world? Then the Public Relations Officer position may be right for you!",
@@ -207,7 +207,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSf-cRVAAxVvB590WDmXbHh5O4XpmVHh8vXyPjyBl_AZEbvPUQ/viewform?usp=sf_link"
     },
     "web-developer": {
-        "disabled": false,
+        "disabled": true,
         "name": "Web Developer",
         "category": "Tech",
         "description": "Interested in building out our websites? Are you a fast learner? Then the Web Developer position may be right for you!",
