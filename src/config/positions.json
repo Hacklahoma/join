@@ -37,7 +37,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScMHNfLiF0anO4b0CgEHM1XkT5bBRxQupBRcSPYJKXxIJ2dHw/viewform?usp=sf_link"
     },
     "outreach-coordinator": {
-        "disabled": false,
+        "disabled": true,
         "name": "Outreach Coordinator",
         "category": "Marketing",
         "description": "Are you a good speaker? Want to spread the word about us and visit other hackathons? Then the Outreach Coordinator position may be right for you!",
@@ -57,7 +57,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeWvsZae6P158kVJiiy-KqqAr0nH_wCBKHuwWYGXKDei5wPKg/viewform?usp=sf_link"
     },
     "public-relations-officer": {
-        "disabled": true,
+        "disabled": false,
         "name": "Public Relations Officer",
         "category": "Marketing",
         "description": "Want to show what Hacklahoma is all about to the world? Then the Public Relations Officer position may be right for you!",
