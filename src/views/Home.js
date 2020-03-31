@@ -1,10 +1,11 @@
-import React, { Component } from 'react'
-import Header from '../components/Header'
-import Positions from '../components/Positions'
-import Hacklahomie from "../components/Hacklahomie"
-import Deadline from '../components/Deadline'
-import status from '../config/status.json'
-import './Home.scss'
+import React, { Component } from "react";
+import Header from "../components/Header";
+import Positions from "../components/Positions";
+import Hacklahomie from "../components/Hacklahomie";
+import Deadline from "../components/Deadline";
+import Rolling from "../components/Rolling";
+import status from "../config/status.json";
+import "./Home.scss";
 
 export class Home extends Component {
     constructor() {
@@ -13,7 +14,7 @@ export class Home extends Component {
             closed: false,
             date: null,
             deadline: "",
-            clock: null
+            clock: null,
         };
     }
 
@@ -46,41 +47,45 @@ export class Home extends Component {
         else if (day % 10 === 2) ending = "nd";
         else if (day % 10 === 3) ending = "rd";
         else ending = "th";
-        var now = new Date(Date.now())
+        var now = new Date(Date.now());
 
         // Setting date states
         this.setState({
-            closed: date.getTime() < now.getTime(),
+            closed: status["rolling"] ? false : date.getTime() < now.getTime(),
             date: date,
-            deadline: wordMonth + " " + day + ending + ", 11:59pm CST"
+            deadline: wordMonth + " " + day + ending + ", 11:59pm CST",
         });
 
-
-        let clock = setInterval(() => {
-            this.updateClosed(date);
-        }, 1000);
-        this.setState({
-            clock: clock
-        })
+        if (!status["rolling"]) {
+            let clock = setInterval(() => {
+                this.updateClosed(date);
+            }, 1000);
+            this.setState({
+                clock: clock,
+            });
+        }
     }
 
     componentWillUnmount() {
         clearInterval(this.state.clock);
     }
-    
 
     updateClosed(date) {
         var now = new Date(Date.now());
         this.setState({
-            closed: date.getTime() < now.getTime()
+            closed: date.getTime() < now.getTime(),
         });
     }
-    
+
     render() {
         return (
             <div className="Home">
                 <Header closed={this.state.closed} />
-                {this.state.closed ? null : <Deadline deadline={this.state.deadline} date={this.state.date} />}
+                {status["rolling"] ? (
+                    <Rolling />
+                ) : this.state.closed ? null : (
+                    <Deadline deadline={this.state.deadline} date={this.state.date} />
+                )}
                 <div className="homeWrapper">
                     <Hacklahomie />
                     {this.state.closed ? null : <Positions />}
@@ -90,4 +95,4 @@ export class Home extends Component {
     }
 }
 
-export default Home
+export default Home;
