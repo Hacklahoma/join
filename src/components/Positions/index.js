@@ -48,14 +48,14 @@ export class Positions extends Component {
                 key.forEach(val => {
                     item.push(
                         <Item
-                            key={val}
+                            key={val + "item"}
                             position={positions[val].name}
                             category={positions[val].category}
                             url={val}
                         />
                     );
                 })
-                result.push(<div key={key + 2} className="category">{item}</div>)
+                result.push(<div key={key + "all"} className="category">{item}</div>)
             });
         }
         return result;
