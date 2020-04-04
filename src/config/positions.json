@@ -165,7 +165,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdOxWc7qczxLKs3VKcxZELkyEx5CoWgJyqQw3AvXm44TlgsKA/viewform?usp=sf_link"
     },
     "finance-liaison": {
-        "disabled": false,
+        "disabled": true,
         "name": "Finance Liaison",
         "category": "Sponsoring & Finance",
         "description": "Are you detail-oriented? Want to gain experience with finance management? Then the Finance Liaison position may be right for you?",
