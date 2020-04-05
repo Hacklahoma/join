@@ -1,6 +1,6 @@
 {
     "marketing-director": {
-        "disabled": false,
+        "disabled": true,
         "name": "Marketing Director",
         "category": "Marketing",
         "description": "Want to lead the creative force behind Hacklahoma? Do you want to help spread the word about Hacklahoma? Then the Marketing Director position may be right for you!",
@@ -25,7 +25,7 @@
     },
     "graphic-designer": {
         "disabled": false,
-        "name": "Graphic Designer (2)",
+        "name": "Graphic Designer",
         "category": "Marketing",
         "description": "Do you love design? Want to flex your creative mind? Then the Graphic Designer position may be right for you!",
         "whatYouDo": [
@@ -57,7 +57,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeWvsZae6P158kVJiiy-KqqAr0nH_wCBKHuwWYGXKDei5wPKg/viewform?usp=sf_link"
     },
     "public-relations-officer": {
-        "disabled": false,
+        "disabled": true,
         "name": "Public Relations Officer",
         "category": "Marketing",
         "description": "Want to show what Hacklahoma is all about to the world? Then the Public Relations Officer position may be right for you!",
@@ -73,7 +73,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScFP_rAPCwxkZJ7s31eKNhaVdAt8kgvCKn96ngczHC2ztlcjw/viewform?usp=sf_link"
     },
     "marketing-strategist": {
-        "disabled": false,
+        "disabled": true,
         "name": "Marketing Strategist",
         "category": "Marketing",
         "description": "Do you love talking about Hacklahoma as much we do? Interested in growing our social media? Then the Marketing Strategist position may be right for you!",
@@ -148,7 +148,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdxV2LX9OJ4h6LoFVkEeCIlwFj0_MinAB-CztkIWz4wNoTE8g/viewform?usp=sf_link"
     },
     "sponsor-liaison": {
-        "disabled": false,
+        "disabled": true,
         "name": "Sponsor Liaison (3)",
         "category": "Sponsoring & Finance",
         "description": "Are you a good communicator? Do you want a chance to interact with companies professionally? Then the Sponsor Liaison position may be right for you!",
@@ -165,7 +165,7 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdOxWc7qczxLKs3VKcxZELkyEx5CoWgJyqQw3AvXm44TlgsKA/viewform?usp=sf_link"
     },
     "finance-liaison": {
-        "disabled": false,
+        "disabled": true,
         "name": "Finance Liaison",
         "category": "Sponsoring & Finance",
         "description": "Are you detail-oriented? Want to gain experience with finance management? Then the Finance Liaison position may be right for you?",
