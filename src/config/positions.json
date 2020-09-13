@@ -106,8 +106,8 @@
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdnE7s0LPMQXGkHiph7WcjYrPD7lbLIhueqHKJuc7nZWxkgFw/viewform?usp=sf_link"
     },
     "operations-officer": {
-        "disabled": true,
-        "name": "Operations Officer (2)",
+        "disabled": false,
+        "name": "Operations Officer",
         "category": "Operations",
         "description": "Do you have a passion for planning? Are you a detail-oriented person? Then the Operations Officer position may be right for you!",
         "whatYouDo": [
@@ -118,6 +118,7 @@
         "whatWeWant": [
             "Event planning experience is preferred but not required.",
             "Excellent communication and organization skills.",
+            "Required to be a freshman, sophomore, or junior.",
             "A willingness to learn!"
         ],
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdoIkzyj7fP0DTYBiqREKqvbGHxCxe8Hiv0D6V7-iASRN-vpA/viewform?usp=sf_link"
@@ -218,7 +219,8 @@
         ],
         "whatWeWant": [
             "Must have enough web development experience to build an entire site independently.",
-            "Familiarity with React and/or other frameworks with an emphasis in front end development is a plus."
+            "Familiarity with React and/or other frameworks with an emphasis in front end development is a plus.",
+            "Required to be a freshman, sophomore, or junior."
         ],
         "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSc_ikXHEpmSb1Jum8WTSysZEpeYe7wFdMxjVn54DkxAI3EiZQ/viewform?usp=sf_link"
     }
