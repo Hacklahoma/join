@@ -93,7 +93,7 @@
     "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdErLkALhrl-ddAjtKTsXy5G6ELv00o68plP5Ml6AhWrtDIrQ/viewform?usp=sf_link"
   },
   "operations-director": {
-    "disabled": false,
+    "disabled": true,
     "name": "Operations Director",
     "category": "Operations",
     "description": "Are you detail-oriented? Want to create an even better experience for Hacklahoma 2022? Then the Operations Director position may be right for you!",
