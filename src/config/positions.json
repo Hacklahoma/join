@@ -1,6 +1,6 @@
 {
   "marketing-director": {
-    "disabled": false,
+    "disabled": true,
     "name": "Marketing Director",
     "category": "Marketing",
     "description": "Want to lead the creative force behind Hacklahoma? Do you want to help spread the word about Hacklahoma? Then the Marketing Director position may be right for you!",
