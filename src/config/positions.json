@@ -216,7 +216,7 @@
     "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSf-cRVAAxVvB590WDmXbHh5O4XpmVHh8vXyPjyBl_AZEbvPUQ/viewform?usp=sf_link"
   },
   "tech-coordinator": {
-    "disabled": false,
+    "disabled": true,
     "name": "Tech Coordinator",
     "category": "Tech",
     "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Coordinator position may be right for you!",
