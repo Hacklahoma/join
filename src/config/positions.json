@@ -37,7 +37,7 @@
     "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdAU_PavnPjPVswJYc4J59QWbVksITUpEH_LHHj97JzxdVO_A/viewform?usp=sf_link"
   },
   "marketing-strategist": {
-    "disabled": false,
+    "disabled": true,
     "name": "Marketing Strategist",
     "category": "Marketing",
     "description": "Do you love talking about Hacklahoma as much we do? Interested in growing our social media? Then the Marketing Strategist position may be right for you!",
@@ -154,7 +154,7 @@
   },
   "sponsor-liaison": {
     "disabled": false,
-    "name": "Sponsor Liaison (3)",
+    "name": "Sponsor Liaison",
     "category": "Sponsoring & Finance",
     "description": "Are you a good communicator? Do you want a chance to interact with companies professionally? Then the Sponsor Liaison position may be right for you!",
     "whatYouDo": [
