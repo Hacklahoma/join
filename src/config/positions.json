@@ -112,8 +112,8 @@
     "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfxNBWgUsMhp_8p_gte73p1UgrSyHnZ9gTppkc4tgxHaXLw2w/viewform?usp=sf_link"
   },
   "operations-officer": {
-    "disabled": true,
-    "name": "Operations Officer (2)",
+    "disabled": false,
+    "name": "Operations Officer",
     "category": "Operations",
     "description": "Do you have a passion for planning? Are you a detail-oriented person? Then the Operations Officer position may be right for you!",
     "whatYouDo": [
