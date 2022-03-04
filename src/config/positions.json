@@ -1,6 +1,6 @@
 {
   "marketing-director": {
-    "disabled": true,
+    "disabled": false,
     "name": "Marketing Director",
     "category": "Marketing",
     "description": "Want to lead the creative force behind Hacklahoma? Do you want to help spread the word about Hacklahoma? Then the Marketing Director position may be right for you!",
@@ -19,7 +19,7 @@
       "Marketing experience is preferred but not required.",
       "Web development experience is preferred but not required."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfJDkKcoye9vxh55aBaFAjUW7y2otD-MuyuNtdJNMKqJ7GiTg/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "graphic-designer": {
     "disabled": false,
@@ -34,25 +34,24 @@
     "whatWeWant": [
       "Must have experience in graphic design. Must provide a portfolio."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdAU_PavnPjPVswJYc4J59QWbVksITUpEH_LHHj97JzxdVO_A/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
   },
-  "marketing-strategist": {
-    "disabled": true,
-    "name": "Marketing Strategist",
+  "marketing-communications": {
+    "disabled": false,
+    "name": "Marketing Communications",
     "category": "Marketing",
-    "description": "Do you love talking about Hacklahoma as much we do? Interested in growing our social media? Then the Marketing Strategist position may be right for you!",
+    "description": "Do you love talking about Hacklahoma as much we do? Interested in growing our social media? Then the Marketing Communications position may be right for you!",
     "whatYouDo": [
       "Responsible for developing and executing a cohesive and successful marketing strategy for the organization.",
       "Responsible for maintaining Hacklahoma's social media accounts",
-      "Collaborates with Outreach Coordinator, Marketing Director, and Public Relations Officer to execute marketing strategy.",
+      "Collaborates with Outreach Coordinator, Marketing Director to execute marketing strategy.",
       "Sets and keeps track of marketing quotas with the Marketing Director.",
-      "Responsible for collaborating with Graphic Designer to create content for Hacklahoma’s social media accounts.",
-      "Responsible for collaborating with the  Public Relations Officer to create email campaigns to send out to mailing lists."
+      "Responsible for collaborating with Graphic Designer to create content for Hacklahoma’s social media accounts."
     ],
     "whatWeWant": [
       "Marketing or related major/experience preferred, but not required."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScc6s8_CrrF9DAP0gDm9BE0aKaVjuXlNM_kSXnSmjFLDdf62g/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
   },
   "outreach-coordinator": {
     "disabled": false,
@@ -68,38 +67,20 @@
     ],
     "whatWeWant": [
       "Great communication skills.",
+      "Comfortable with writing professional emails.",
       "Experience with public speaking preferred but not required.",
       "Ability to learn topics quickly.",
       "Enthusiasm!"
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdK6bZuxrNBsWpDhh7K6w-sry5JeeuLYg1rdjDQTsWnNpM6zA/viewform?usp=sf_link"
-  },
-  "public-relations-officer": {
-    "disabled": false,
-    "name": "Public Relations Officer",
-    "category": "Marketing",
-    "description": "Want to show what Hacklahoma is all about to the world? Then the Public Relations Officer position may be right for you!",
-    "whatYouDo": [
-      "Responsible for strategic planning to further enhance Hacklahoma’s public image.",
-      "Creates content for the Hacklahoma press kit and all press releases and Medium articles.",
-      "Coordinates all contact with press/media and generates opportunities to promote Hackahoma in press/media.",
-      "Liaison for all press/media present at Hacklahoma events.",
-      "Manages mass emails for the Hacklahoma mailing list and other University mailing lists.",
-      "Responsible for collaborating with Marketing Strategist to create email campaigns."
-    ],
-    "whatWeWant": [
-      "Public Relations or related major/experience preferred but not required."
-    ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdErLkALhrl-ddAjtKTsXy5G6ELv00o68plP5Ml6AhWrtDIrQ/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
   },
   "operations-director": {
-    "disabled": true,
+    "disabled": false,
     "name": "Operations Director",
     "category": "Operations",
-    "description": "Are you detail-oriented? Want to create an even better experience for Hacklahoma 2022? Then the Operations Director position may be right for you!",
+    "description": "Are you detail-oriented? Want to create an even better experience for Hacklahoma 2023? Then the Operations Director position may be right for you!",
     "whatYouDo": [
       "Responsible for event operations, including the improvement and optimization of operations.",
-      "Responsible for venue reservations, venue layouts, and event safety/risk management.",
       "Creating and managing the event schedule.",
       "Researching and coordinating with food vendors.",
       "Coordinating with Operations Officers on improving hacker experience and event logistics.",
@@ -109,7 +90,7 @@
       "Event planning experience is preferred but not required.",
       "Excellent communication and organization skills."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfxNBWgUsMhp_8p_gte73p1UgrSyHnZ9gTppkc4tgxHaXLw2w/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "operations-officer": {
     "disabled": false,
@@ -126,7 +107,25 @@
       "Excellent communication and organization skills.",
       "A willingness to learn!"
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeNq4ZO5Ib6rINa4O9ajsy6Gl77FVf1PhcW_o5iW2ifH_UYig/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/L7GJTft6DTLYxhFn8"
+  },
+  "logistics-officer": {
+    "disabled": false,
+    "name": "Logistics Officer",
+    "category": "Operations",
+    "description": "Do you have a passion for planning? Are you a detail-oriented person? Then the Operations Officer position may be right for you!",
+    "whatYouDo": [
+      "Pre-Event oriented.",
+      "Responsible for Hacklahoma asset assessments (inventory, supply lists, purchasing list).",
+      "Manage and submission of needed forms and documents (Special Events Form, Facilities Request Form, etc.)",
+      "Work with Operations Director and Operations Officers on pre-event preperations."
+    ],
+    "whatWeWant": [
+      "Event planning experience is preferred but not required.",
+      "Excellent communication and organization skills.",
+      "A willingness to learn!"
+    ],
+    "applyLink": "https://forms.gle/L7GJTft6DTLYxhFn8"
   },
   "sponsoring-and-finance-director": {
     "disabled": false,
@@ -150,7 +149,7 @@
       "Excellent communication and organization skills.",
       "Experience in sales or interacting with companies professionally is a plus."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdXuQaOLCYkkcvvTNDEroVp9Q4tp8G8u_WbJoT2WSnj0cfpyg/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "sponsor-liaison": {
     "disabled": false,
@@ -169,7 +168,7 @@
       "Time management skills.",
       "Networking skills."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdJT3L_22Ey7jT7qRoko1CYuiU03nFN5v9diFFMuBT7KAZSlQ/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/rJBgjjdN1U6e8Wka6"
   },
   "finance-liaison": {
     "disabled": false,
@@ -181,20 +180,19 @@
       "Helps the Sponsoring & Finance Director create a detailed budget.",
       "Documents expenses and revenue for Hacklahoma's account.",
       "Responsible for setting travel reimbursement policy and processing reimbursements.",
-      "Responsible for setting travel reimbursement policy and processing reimbursements.",
       "Partially acts as another Sponsor Liaison to obtain sponsors."
     ],
     "whatWeWant": [
       "Excellent time commitment skills.",
       "Experience in budgeting and finance management.",
       "Experience in sales or interacting with companies and staff professionally preferred but not required.",
-      "Experience in bookkeeping preferred but not required",
-      "Experience with Excel"
+      "Experience in bookkeeping preferred but not required.",
+      "Experience with Excel."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeELGsNZWMTc67Gowy3Kfhyelho-HGoXnXIduCH9OZDQkbRzA/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/rJBgjjdN1U6e8Wka6"
   },
   "tech-director": {
-    "disabled": true,
+    "disabled": false,
     "name": "Tech Director",
     "category": "Tech",
     "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Director position may be right for you!",
@@ -213,24 +211,38 @@
       "Proficient in Git.",
       "Effective communication across teams and can provide coaching, mentoring, and encouragement."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSf-cRVAAxVvB590WDmXbHh5O4XpmVHh8vXyPjyBl_AZEbvPUQ/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
-  "tech-coordinator": {
-    "disabled": true,
-    "name": "Tech Coordinator",
+  "web-coordinator": {
+    "disabled": false,
+    "name": "Web Coordinator",
     "category": "Tech",
     "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Coordinator position may be right for you!",
     "whatYouDo": [
       "Develop and maintain the Hacklahoma event and live web pages.",
       "Develop and maintain the registration system and judging system.",
-      "Collaborate heavily with the marketing team to bring their creative direction to the websites.",
-      "Maintain a discord/slack with custom bots."
+      "Collaborate heavily with the marketing team to bring their creative direction to the websites."
     ],
     "whatWeWant": [
       "Interested in building websites.",
-      "Interested in learning many of the different tools we use to create websites and other applications.",
-      "Required to be a freshman or sophomore."
+      "Interested in learning many of the different tools we use to create websites and other applications."
     ],
-    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScv46O1OcVgEK1l9WGsyghfkAbQwGzHjQQPTPeTHcN9yu-GTQ/viewform?usp=sf_link"
+    "applyLink": "https://forms.gle/9icirqqKK2aWYug2A"
+  },
+  "discord-coordinator": {
+    "disabled": false,
+    "name": "Discord Coordinator",
+    "category": "Tech",
+    "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Coordinator position may be right for you!",
+    "whatYouDo": [
+      "Maintain and moderate the Hacklahoma event and general Discord servers.",
+      "Develop and maintain Discord bots for event server use.",
+      "Assist the Tech Director and Web Coordinator in any additional tasks."
+    ],
+    "whatWeWant": [
+      "Interested in helping develop the Discord bot for Hacklahoma 2023.",
+      "Familiarity with React and/or other frameworks with an emphasis in front end development is a plus."
+    ],
+    "applyLink": "https://forms.gle/9icirqqKK2aWYug2A"
   }
 }
