@@ -192,7 +192,7 @@
     "applyLink": "https://forms.gle/rJBgjjdN1U6e8Wka6"
   },
   "tech-director": {
-    "disabled": false,
+    "disabled": true,
     "name": "Tech Director",
     "category": "Tech",
     "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Director position may be right for you!",
@@ -214,7 +214,7 @@
     "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "web-coordinator": {
-    "disabled": false,
+    "disabled": true,
     "name": "Web Coordinator",
     "category": "Tech",
     "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Coordinator position may be right for you!",
@@ -230,7 +230,7 @@
     "applyLink": "https://forms.gle/9icirqqKK2aWYug2A"
   },
   "discord-coordinator": {
-    "disabled": false,
+    "disabled": true,
     "name": "Discord Coordinator",
     "category": "Tech",
     "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Coordinator position may be right for you!",
