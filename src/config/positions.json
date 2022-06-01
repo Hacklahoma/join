@@ -1,6 +1,6 @@
 {
   "marketing-director": {
-    "disabled": false,
+    "disabled": true,
     "name": "Marketing Director",
     "category": "Marketing",
     "description": "Want to lead the creative force behind Hacklahoma? Do you want to help spread the word about Hacklahoma? Then the Marketing Director position may be right for you!",
@@ -75,7 +75,7 @@
     "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
   },
   "operations-director": {
-    "disabled": false,
+    "disabled": true,
     "name": "Operations Director",
     "category": "Operations",
     "description": "Are you detail-oriented? Want to create an even better experience for Hacklahoma 2023? Then the Operations Director position may be right for you!",
@@ -128,7 +128,7 @@
     "applyLink": "https://forms.gle/L7GJTft6DTLYxhFn8"
   },
   "sponsoring-and-finance-director": {
-    "disabled": false,
+    "disabled": true,
     "name": "Sponsoring & Finance Director",
     "category": "Sponsoring & Finance",
     "description": "Are you a driven and motivated person? Do you want to help raise funds to make an even better Hacklahoma? Then the Sponsoring & Finance Director position may be right for you!",
