@@ -93,7 +93,7 @@
     "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "operations-officer": {
-    "disabled": false,
+    "disabled": true,
     "name": "Operations Officer",
     "category": "Operations",
     "description": "Do you have a passion for planning? Are you a detail-oriented person? Then the Operations Officer position may be right for you!",
@@ -110,7 +110,7 @@
     "applyLink": "https://forms.gle/L7GJTft6DTLYxhFn8"
   },
   "logistics-officer": {
-    "disabled": false,
+    "disabled": true,
     "name": "Logistics Officer",
     "category": "Operations",
     "description": "Do you have a passion for planning? Are you a detail-oriented person? Then the Operations Officer position may be right for you!",
