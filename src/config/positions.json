@@ -22,7 +22,7 @@
     "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "graphic-designer": {
-    "disabled": false,
+    "disabled": true,
     "name": "Graphic Designer",
     "category": "Marketing",
     "description": "Do you love design? Want to flex your creative mind? Then the Graphic Designer position may be right for you!",
@@ -37,7 +37,7 @@
     "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
   },
   "marketing-communications": {
-    "disabled": false,
+    "disabled": true,
     "name": "Marketing Communications",
     "category": "Marketing",
     "description": "Do you love talking about Hacklahoma as much we do? Interested in growing our social media? Then the Marketing Communications position may be right for you!",
@@ -54,7 +54,7 @@
     "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
   },
   "outreach-coordinator": {
-    "disabled": false,
+    "disabled": true,
     "name": "Outreach Coordinator",
     "category": "Marketing",
     "description": "Are you a good speaker? Want to spread the word about us and visit other hackathons? Then the Outreach Coordinator position may be right for you!",
