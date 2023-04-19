@@ -22,19 +22,18 @@
     "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "graphic-designer": {
-    "disabled": true,
+    "disabled": false,
     "name": "Graphic Designer",
     "category": "Marketing",
     "description": "Do you love design? Want to flex your creative mind? Then the Graphic Designer position may be right for you!",
     "whatYouDo": [
       "Creates various graphics for our social media, the website, mailing lists, and other miscellaneous platforms.",
-      "Develop logo and branding guidelines with the Marketing Director.",
-      "Designs documentation with other members, which includes but is not limited to: Sponsorship packet, invoices, press kit."
+      "Develop logo and branding guidelines with the Marketing Director."
     ],
     "whatWeWant": [
       "Must have experience in graphic design. Must provide a portfolio."
     ],
-    "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
+    "applyLink": "https://forms.gle/3PLiBQtT7XBNMbw77"
   },
   "marketing-communications": {
     "disabled": true,
@@ -54,25 +53,22 @@
     "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
   },
   "outreach-coordinator": {
-    "disabled": true,
+    "disabled": false,
     "name": "Outreach Coordinator",
     "category": "Marketing",
     "description": "Are you a good speaker? Want to spread the word about us and visit other hackathons? Then the Outreach Coordinator position may be right for you!",
     "whatYouDo": [
       "Organize workshops on a monthly basis, on average.",
-      "Plan collaborative meetings with other organizations on campus.",
-      "Assist Marketing Strategist and Public Relations Officer with executing Hacklahoma's marketing plan.",
-      "Communicate with sponsors on holding workshops throughout the Fall and Spring semesters.",
-      "Communicate with other hackathons, schools, and clubs/organizations."
+      "Responsible for finding and communicating collaborative opportunities between Hacklahoma and other organizations and entities",
+      "Point of Contact between Hacklahoma and external entities (non-sponsorship related)"
     ],
     "whatWeWant": [
       "Great communication skills.",
       "Comfortable with writing professional emails.",
-      "Experience with public speaking preferred but not required.",
-      "Ability to learn topics quickly.",
+      "Time management skills.",
       "Enthusiasm!"
     ],
-    "applyLink": "https://forms.gle/rhAAXrh88CdZQgbt5"
+    "applyLink": "https://forms.gle/3PLiBQtT7XBNMbw77"
   },
   "operations-director": {
     "disabled": true,
@@ -93,21 +89,27 @@
     "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "operations-officer": {
-    "disabled": true,
+    "disabled": false,
     "name": "Operations Officer",
     "category": "Operations",
     "description": "Do you have a passion for planning? Are you a detail-oriented person? Then the Operations Officer position may be right for you!",
     "whatYouDo": [
-      "Assisting the Operations Director in researching prospective venues, food, and event activities.",
+      "Assisting the Operations Director in researching viable food vendors, and event day schedule (Run of Show).",
       "Ensuring all planned activities run smoothly during the event.",
-      "Collecting feedback from hackers at Hacklahoma (and other hackathons, if possible) to improve the hacker experience."
+      "Responsible for Hacklahoma asset assessments (inventory, supply lists, purchasing list).",
+      "Manage and submission of needed forms and documents (Special Events Form, Facilities Request Form, etc.)",
+      "Work with Operations Director on pre-event preparation.",
+      "Reach out to companies or student orgs to host monthly workshops"
     ],
     "whatWeWant": [
       "Event planning experience is preferred but not required.",
       "Excellent communication and organization skills.",
-      "A willingness to learn!"
+      "Time management skills.",
+      "Must be comfortable writing professional emails.",
+      "Willingness to learn and adapt",
+      "Have to make the operations director laugh"
     ],
-    "applyLink": "https://forms.gle/L7GJTft6DTLYxhFn8"
+    "applyLink": "https://forms.gle/VpmSffN4XNR2pLL66"
   },
   "logistics-officer": {
     "disabled": true,
@@ -118,7 +120,9 @@
       "Pre-Event oriented.",
       "Responsible for Hacklahoma asset assessments (inventory, supply lists, purchasing list).",
       "Manage and submission of needed forms and documents (Special Events Form, Facilities Request Form, etc.)",
-      "Work with Operations Director and Operations Officers on pre-event preperations."
+      "Work with Operations Director on pre-event preparation.",
+      "Reach out to companies or student orgs to host monthly workshops"
+
     ],
     "whatWeWant": [
       "Event planning experience is preferred but not required.",
@@ -157,7 +161,6 @@
     "category": "Sponsoring & Finance",
     "description": "Are you a good communicator? Do you want a chance to interact with companies professionally? Then the Sponsor Liaison position may be right for you!",
     "whatYouDo": [
-      "Main point of contact for sponsors.",
       "Builds relationships with prospective sponsors and negotiates sponsorships.",
       "Creates and maintains relationships between Hacklahoma and sponsors before, during, and after the event.",
       "Sponsor Experience preparation. This includes but is not limited to: preparing sponsors for the event, provide event information for sponsors, work with sponsors to plan their hosted workshops/activities."
@@ -166,9 +169,10 @@
       "Excellent communication skills.",
       "Experience in sales or interacting with companies professionally preferred but not required.",
       "Time management skills.",
-      "Networking skills."
+      "Networking skills.",
+      "Must be comfortable writing professional emails."
     ],
-    "applyLink": "https://forms.gle/rJBgjjdN1U6e8Wka6"
+    "applyLink": "https://forms.gle/763XByytYbgJtxnU6"
   },
   "finance-liaison": {
     "disabled": false,
@@ -177,19 +181,16 @@
     "description": "Are you detail-oriented? Want to gain experience with finance management? Then the Finance Liaison position may be right for you!",
     "whatYouDo": [
       "Completes Hacklahoma’s grant, sponsorship, and other funding applications.",
-      "Helps the Sponsoring & Finance Director create a detailed budget.",
-      "Documents expenses and revenue for Hacklahoma's account.",
-      "Responsible for setting travel reimbursement policy and processing reimbursements.",
-      "Partially acts as another Sponsor Liaison to obtain sponsors."
+      "Assists S&F Director with handling and managing org transactions/purchases."
     ],
     "whatWeWant": [
-      "Excellent time commitment skills.",
-      "Experience in budgeting and finance management.",
+      "Excellent communication skills.",
+      "Must be comfortable writing professional emails.",
       "Experience in sales or interacting with companies and staff professionally preferred but not required.",
-      "Experience in bookkeeping preferred but not required.",
-      "Experience with Excel."
+      "Time management skills.",
+      "Networking skills."
     ],
-    "applyLink": "https://forms.gle/rJBgjjdN1U6e8Wka6"
+    "applyLink": "https://forms.gle/763XByytYbgJtxnU6"
   },
   "tech-director": {
     "disabled": true,
@@ -214,20 +215,21 @@
     "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "web-coordinator": {
-    "disabled": true,
+    "disabled": false,
     "name": "Web Coordinator",
     "category": "Tech",
     "description": "Want to improve Hacklahoma's technology? Have ideas on how to help streamline our work? Then the Technology Coordinator position may be right for you!",
     "whatYouDo": [
       "Develop and maintain the Hacklahoma event and live web pages.",
       "Develop and maintain the registration system and judging system.",
-      "Collaborate heavily with the marketing team to bring their creative direction to the websites."
+      "Collaborate heavily with the marketing team to bring their creative direction to the websites.",
+      "Assist Tech Director w/ development and management tasks."
     ],
     "whatWeWant": [
       "Interested in building websites.",
       "Interested in learning many of the different tools we use to create websites and other applications."
     ],
-    "applyLink": "https://forms.gle/9icirqqKK2aWYug2A"
+    "applyLink": "https://forms.gle/9xhvZtyEQtsXbGQw9"
   },
   "discord-coordinator": {
     "disabled": true,
