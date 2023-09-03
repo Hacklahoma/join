@@ -65,7 +65,7 @@ export class Positions extends Component {
         return (
             <div className="Positions">
                 <div className="title">
-                    <h1>Current Openings</h1>
+                    <h1>Officer applications are closed for 2024 season. Check back next year!</h1>
                 </div>
                 <div className="positions">
                     {this.renderCategories()}
