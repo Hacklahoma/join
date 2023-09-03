@@ -22,7 +22,7 @@
     "applyLink": "https://forms.gle/UDCypSCbJNWCgxnB8"
   },
   "graphic-designer": {
-    "disabled": false,
+    "disabled": true,
     "name": "Graphic Designer",
     "category": "Marketing",
     "description": "Do you love design? Want to flex your creative mind? Then the Graphic Designer position may be right for you!",
